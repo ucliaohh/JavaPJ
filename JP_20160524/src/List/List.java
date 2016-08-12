@@ -3,7 +3,7 @@ package List;
 public class List { // If it was "private\protected", it is wrong. We may change
 					// its members to "private\protected".
 
-	private final int ListSize = 10; // = #deine of C++
+	private final int ListSize = 10; // = #define of C++
 
 	private class ListNode {
 		protected int data;
